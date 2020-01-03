@@ -10,12 +10,14 @@
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
 <br><br>
-<html>
-<a class="EditLink-module--link--1qzW3" href="https://github.com/Slaaatje/testing/edit/master/docs/abstract.md">Edit this page on GitHub</a></html>
+
 
 # Abstractttedfdsfds
 [Abstract](https://www.abstract.com) brings git-inspired version control & collaboration to your
  design team.
+ 
+ <html>
+<a class="EditLink-module--link--1qzW3" href="https://github.com/Slaaatje/testing/edit/master/docs/abstract.md">Edit this page on GitHub</a></html>
 
 <img src="_images/Abstract.png" alt="Abstract" />
 
