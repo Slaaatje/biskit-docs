@@ -7,7 +7,7 @@
 </html>
  
 
-# Introduction - Biskit HIER MOET IETS ANDERS KOMEN
+# Introduction - Biskit
 An user-friendly, open source design system. :cookie:
 <br>
 
