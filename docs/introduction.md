@@ -8,7 +8,7 @@
  
 
 # Introduction - Biskittt
-An user-friendly, open source design system. :cookie: 
+An user-friendly, open source design system. :cookie: HMM
 <br>
 
 > "Without a shared design language and practises, collaboration is difficult" - Alla Kholmatova
