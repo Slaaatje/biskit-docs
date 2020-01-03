@@ -28,7 +28,7 @@
 
 
 
-## Basicssssss
+## BasicssssssVERANDEREN
 - The master branch contains only designs that are approved by the design team and the client. It is not used for experiments and stuff that is not 100% certain to go to the development stage of the project.
 - It's recommended to work in different artboards. This way you prevent a lot of merge conflicts.
 - How you should work: Make artboards with different iterations and make a commit. When a iterations is agreed upon by the client and team, delete all other artboards and commit again. This way all iterations are saved (in the activity history) but the file is not cluttered with experiments. 
