@@ -11,7 +11,7 @@
 </script>
 <br><br>
 <html>
-<a class="EditLink-module--link--1qzW3" href="https://github.com/carbon-design-system/carbon-website/edit/master/src/pages/guidelines/content/general.mdx">Edit this page on GitHub</a></html>
+<a class="EditLink-module--link--1qzW3" href="https://github.com/Slaaatje/testing/edit/master/docs/abstract.md">Edit this page on GitHub</a></html>
 
 # Abstractttedfdsfds
 [Abstract](https://www.abstract.com) brings git-inspired version control & collaboration to your
