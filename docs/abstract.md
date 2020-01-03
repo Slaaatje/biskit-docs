@@ -12,7 +12,7 @@
 <br><br>
 
 
-# Abstractttedfdsfds
+# Abstract
 [Abstract](https://www.abstract.com) brings git-inspired version control & collaboration to your
  design team.
  
