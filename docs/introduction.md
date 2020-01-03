@@ -7,8 +7,8 @@
 </html>
  
 
-# Introduction - Biskit
-An user-friendly, open source design system. :cookie: 
+# Introduction - Biskit HIER MOET IETS ANDERS KOMEN
+An user-friendly, open source design system. :cookie:
 <br>
 
 > "Without a shared design language and practises, collaboration is difficult" - Alla Kholmatova
