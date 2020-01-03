@@ -17,7 +17,7 @@ An user-friendly, open source design system. :cookie:
  ***
 
 
-## About Biskit
+## About BiskitDOET DIE HET?
 Biskit is [Koek's](https://www.koek.nl) open-source design system for digital products and experiences. With
  the Koek Design Language as its foundation, the system consists of working code, design tools, resources and human
   interface guidelines. This is the start for an existing project or to start a project from scratch. Biskit contains
