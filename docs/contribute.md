@@ -15,7 +15,9 @@ Log in with your GitHub account or create a new account. You'll be redirected to
 
 Did you make the adjustments? Then you still need to confirm the changes by re-committing the page. You can do this by setting a title at the bottom of the page for commit changes and a description of what you've done and then click commit. Now the page will be updated with the new content. 
 
-<img src="_images/page-commit.png" alt="Edit page" style="float: left; width:720px;" /><br><br><br><br><br><br><br><br><br>
+<img src="_images/page-commit.png" alt="Edit page" style="float: left; width:720px;" /><br><br><br><br><br><br><br><br><br><br>
+<img src="_images/contribute.gif" alt="Edit page" style="float: left; width:720px;" /><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+*Demonstration how to change content on the Biskit pages.*
 
 ***
 
