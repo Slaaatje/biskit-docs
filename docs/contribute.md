@@ -6,7 +6,7 @@
     </div>
 </html>
 
-## Edit pages
+## Edit pagesss
 Would you also like to contribute to the documentation website of Biskit. For example, if you see a grammatical error or want to add a topic, click 'Edit this page on GitHub' at the top of the page. You'll be redirected to Biskit's GitHub page.
 
 Log in with your GitHub account or create a new account. You'll be redirected to the edit page. Here you can make changes to the content.
